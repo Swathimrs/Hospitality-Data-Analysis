@@ -23,6 +23,7 @@ Recently, I had the opportunity to work on an exciting project for Obsidian. The
 9.	Average Ratings: Evaluating guest feedback, I determined the average rating per city, essential for maintaining quality standards.
   
 10.	Booking Platforms: A delightful pie chart illustrated the distribution of revenue across different booking platforms, helping to fine-tune marketing efforts.
-    
-This project underscores the power of **data analytics**, **Python**, **Pandas** and **data visualization (matpotlib)** in the hospitality domain. By getting these insights, Obsidian can enhance their service quality, optimize pricing, and improve customer experiences.
+
+
+This project demonstrate my skills in **data analysis**, **Python**, **Pandas** and **data visualization (matpotlib)** in the business context. By getting these insights, Obsidian can enhance their service quality, optimize pricing, and improve customer experiences.
 
