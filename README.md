@@ -24,5 +24,5 @@ Recently, I had the opportunity to work on an exciting project for Obsidian. The
   
 10.	Booking Platforms: A delightful pie chart illustrated the distribution of revenue across different booking platforms, helping to fine-tune marketing efforts.
     
-This project underscores the power of data analytics, Python, and Pandas in the hospitality domain. By getting these insights, Obsidian can enhance their service quality, optimize pricing, and improve customer experiences.
+This project underscores the power of **data analytics**, **Python**, **Pandas** and **data visualization (matpotlib)** in the hospitality domain. By getting these insights, Obsidian can enhance their service quality, optimize pricing, and improve customer experiences.
 
